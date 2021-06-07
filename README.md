@@ -2,6 +2,6 @@
 
 ## seriously, markdowns
 
-### * effing markdowns, bro*
+### *effing markdowns, bro*
 
-** this is a repository of doing words and stuff. **
+**this is a repository of doing words and stuff.**
